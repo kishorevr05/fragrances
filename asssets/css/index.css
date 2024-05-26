@@ -1,0 +1,548 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+}
+.a1{
+    width: 100%;
+    height: 1000px;
+    background-image: url(https://emart.wpthemedemos.com/exotic-fragrances/wp-content/uploads/sites/21/2023/06/Perfume-Bannner-bg-scaled.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.a2{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+     gap: 250px;
+}
+
+.a2 img{
+    width: 160px;
+}
+.a3{
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+ font-size: 18px;
+}
+.a4{
+    color: white;
+    gap: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a5{
+   width: 56%;
+   height: 835px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+} 
+.a6{
+    width: 70%;
+    height: 200px;
+}
+.a6 h1{
+    font-size: 95px;
+    color: #C78C56;
+    font-weight: lighter;
+    font-family: "Cormorant Garamond", serif;
+    animation-duration: 1s;
+    animation-delay: 0.2s;
+}
+.a6 p{
+    color: white;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    font-weight: 400;
+    line-height: 30px;
+}
+.a7{
+    display: flex;
+    justify-content: flex-end;
+    align-items:center;
+    position: relative;
+    bottom: 718px;
+}
+.a7 img{
+    height: 745px;
+    width: 275px;
+}
+.a8{
+    width: 100%;
+    height: 770px;
+    background-color: #2d2c2c;
+
+}
+.a9{
+    width: 40%;
+    height: 255px;
+    display: flex;
+    justify-content: flex-end;
+    align-items:flex-end;
+    flex-direction: column;
+    line-height: 55px;
+    animation-duration: 3s;
+    animation-delay: 2s;
+}
+.a10{
+    width: 74%;
+}
+.a10 p{
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+}
+.a10 h2{
+    font-size: 34px;
+    color: #C78C56;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 700;
+    width: 72%;
+}
+.b{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 109px;
+    bottom: 111px;
+}
+
+.b img{
+    width: 77%;
+}
+.b1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    animation-duration: 3s;
+    animation-delay: 2s;
+}
+.b2{
+    position: relative;
+    left: 132px;
+    bottom: 152px;
+}
+.b2 img{
+    width: 400px;
+    height: 590px;
+}
+.b3{
+    
+    position: relative;
+    left: 160px;
+    top: 9px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.b3 p{
+   width: 43%;
+   font-family: "Poppins", sans-serif;
+   color: white;
+}
+.b3 button{
+    width: 155px;
+    height: 55px;
+}
+.b3 button:hover{
+    background-color: black;
+    color: white;
+    border: none;
+}
+.b3 i{
+    font-size: 45px;
+    color: #593f28;
+}
+.b4{
+    width: 53%;
+    height: 190px;
+    display: flex;
+    align-items:flex-end;
+    justify-content: center;
+   
+}
+.b5{
+   
+    height: 115px;
+    display: flex;
+    align-items:flex-start;
+    justify-content: flex-end;
+    flex-direction: column;
+    gap: 15px;
+}
+.b5 h1{
+    font-family: "Cormorant Garamond", serif;
+    font-size: 37px;
+    font-weight: 500;
+    color:#C78C56 ;
+    
+}
+.b5 p{
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+.b6{
+    width: 100%;
+    height: 485px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 35px;
+}
+.b7 img{
+    width: 288px;
+}
+.b8{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+     gap: 10px;
+}
+.b8 h4{
+    font-size: 22px;
+    font-weight: 200;
+    font-family: "Cormorant Garamond", serif;
+}
+.b8 p{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    gap: 10px;
+}
+.c{
+    height: 120px;
+}
+.c1{
+    width: 100%;
+    height: 1000px;
+     background-image: url(https://emart.wpthemedemos.com/exotic-fragrances/wp-content/uploads/sites/21/2023/06/slider-bg-perfume-scaled.webp);
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+.c2{
+    width: 92%;
+    height:730px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 50px;
+}
+.c3 img{
+    width: 550px;
+}
+.c3{
+    animation-duration: 3s;
+    animation-delay: 5s;
+}
+.c5{
+    animation-duration: 3s;
+    animation-delay: 5s;
+}
+.c4{
+    height: 616px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.c4 img{
+    width: 170px;
+
+}
+.c5 img{
+    width: 300px;;
+}
+.c5{
+    height: 616px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.c6{
+    width: 605px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    flex-direction: column;
+ 
+}
+.c6 p{
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 17px;
+    margin-top: 15px;
+}
+.c6 h1{
+    color:#C78C56 ;
+    font-family: "Cormorant Garamond", serif;
+    font-size: 40px;
+    font-weight: 400;
+}
+.c6 button{
+    width: 155px;
+    height: 55px;
+    margin-top: 15px;
+}
+.c6 button:hover{
+    background-color: black;
+    color: white;
+    border: none;
+}    
+.c7{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+    animation-duration: 3s;
+    animation-delay: 5s;
+}
+.c8{
+    position: relative;
+    left: 1097px;
+    bottom: 330px;
+    animation-duration: 3s;
+    animation-delay: 7s;
+
+}
+.c8 img{
+    width: 280px;
+}
+.d{
+    width: 100%;
+    height: 1111px;
+     background-color:#2d2c2c ;
+     display: flex;
+    
+}
+.d1{
+    width: 50%;
+    height: 1060px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    flex-direction: column;
+    gap: 20px;
+}
+.d3{
+    animation-duration: 3s;
+    animation-delay: 9s;
+
+}
+.d3 img{
+    width: 640px;
+   
+}
+.d2{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    width: 638px;
+    line-height: 47px;
+    animation-duration: 3s;
+    animation-delay: 10s;
+}
+.d2 p{
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 17px;
+}
+.d2 h1{
+    color:#C78C56 ;
+    font-family: "Cormorant Garamond", serif;
+    font-size: 40px;
+    font-weight: 400;
+}
+.d4{
+    width: 48%;
+    height: 1046px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;
+    gap: 20px;
+}
+.d6{
+    animation-duration: 3s;
+    animation-delay: 9s;
+}
+.d6 img{
+    width: 580px;
+    height: 790px;
+}
+.d5{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    width: 584px;
+    line-height: 47px;
+    animation-duration: 3s;
+    animation-delay: 10s;
+}
+.d5 p{
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 17px;
+}
+.d5 h1{
+    color:#C78C56 ;
+    font-family: "Cormorant Garamond", serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+.e{
+    width: 100%;
+    height: 210px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 114px;
+
+}
+.e1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    animation-duration: 3s;
+    animation-delay: 12s;
+}
+.e3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 3px;
+}
+.e3 h4{
+    font-size: 20px;
+    font-weight: 300;
+    font-family: "Poppins", sans-serif;
+}
+.e3 p{
+    font-size: 16px;
+    font-weight: 300;
+    font-family: "Poppins", sans-serif;
+}
+.f{
+    width: 100%;
+    height: 400px;
+    background-color: #000a12;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+}
+.f1{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    line-height: 40px;
+}
+.f1 h1{
+    color:#C78C56 ;
+    font-family: "Cormorant Garamond", serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+.f1 p{
+    font-size: 16px;
+    font-weight: 300;
+    font-family: "Poppins", sans-serif;
+}
+.f2{
+    height:270px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+.f2 h1{
+    color:#C78C56 ;
+    font-family: "Cormorant Garamond", serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+.f2 p{
+    margin-top: 15px;
+    width: 313px;
+    font-size: 16px;
+    font-weight: 300;
+    font-family: "Poppins", sans-serif;
+    line-height: 25px;
+    
+}
+.f3{
+    margin-top: 20px;
+}
+.f3 input{
+    width: 317px;
+    height: 50px;
+    border: 2px solid rgb(241, 241, 241);
+    outline: none;
+}
+.f3 i{
+    background-color: #C78C56;
+    width: 67px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    bottom: 50px;
+    left: 250px;
+}
+.m{
+    width: 100px;
+    height: 50px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    left: 923px;
+    bottom: 33px;
+}
+/* .l2{
+    background-color: white;
+    width: 100px;
+    height: 50px;
+    color: black;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+.l{
+    position: relative;
+} */
